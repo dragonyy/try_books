@@ -1,4 +1,6 @@
 TryBooks::Application.routes.draw do
+  get "rails_cast205/ujs"
+
   # The priority is based upon order of creation:
   # first created -> highest priority.
 

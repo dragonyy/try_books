@@ -1,0 +1,2 @@
+module RailsCast205Helper
+end
